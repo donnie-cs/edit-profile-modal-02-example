@@ -1,0 +1,17 @@
+{
+  "name": "edit-profile-modal-02-example",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0",
+    "typescript": "^5.4.0",
+    "vite": "^5.2.0"
+  }
+}
