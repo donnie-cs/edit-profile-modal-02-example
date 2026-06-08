@@ -9,7 +9,7 @@ you think.
 A teammate has opened a pull request that adds an **Edit Profile modal dialog** to our
 account-settings page. We'd like you to **review that PR** the way you would for a colleague:
 
-> ### 👉 Open the PR: https://github.com/donnie-cs/edit-profile-modal-02-example/pull/1
+> ### Open the PR: https://github.com/donnie-cs/edit-profile-modal-02-example/pull/1
 
 Walk us through what you'd comment on, what you'd approve, and what (if anything) you'd ask the
 author to change before merging. There's no single "correct" list — we care about how you read
@@ -48,4 +48,4 @@ starting point before the modal was added.
 
 - The project is intentionally small and **framework-free** (plain TypeScript + HTML + SCSS) so
   we can focus on fundamentals — whether your background is Angular, React, or something else.
-- Take your time, think out loud, and ask questions. 🙂
+- Take your time, think out loud, and ask questions.
