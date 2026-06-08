@@ -32,7 +32,7 @@ test, and poking at the real thing is exactly what we'd want a teammate to do.
 
 - **[`DESIGN_SYSTEM.md`](./DESIGN_SYSTEM.md)** — our design tokens and component guidelines.
   Implementations are expected to consume these.
-- **[`docs/dialog.png`](./docs/dialog.png)** — the Figma design the dialog should match.
+- **[`docs/reference.png`](./docs/reference.png)** — a handoff from UX showing how the dialog should look.
 
 ## Running it locally (optional)
 
