@@ -56,7 +56,7 @@
 | `--font-weight-regular` | 400 |
 | `--font-weight-semibold` | 600 |
 
-## Modal dialog spec (from Figma — `docs/dialog.png`)
+## Modal dialog spec (UX handoff — `docs/reference.png`)
 
 - Surface background, `--radius-lg` corners, `--shadow-modal` elevation.
 - Title (`--font-size-lg`, semibold) + muted description below it.
